@@ -1,0 +1,60 @@
+/* ContactUs.css */
+.contact-us-section {
+    background-color: #f8f9fa;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .contact-us-header {
+    background-image: url('https://via.placeholder.com/1920x400?text=Contact+Us'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+  }
+  
+  .contact-form-card {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .contact-info-card {
+    border: none;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  .bg-light-blue {
+    background-color: #d1e7ff;
+  }
+  
+  .bg-light-green {
+    background-color: #d4edda;
+  }
+  
+  .bg-light-pink {
+    background-color: #f8d7da;
+  }
+  
+  .map-container {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .text-info {
+    color: #17a2b8 !important;
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  
+  .text-success {
+    color: #28a745 !important;
+  }
+  
+  .text-danger {
+    color: #dc3545 !important;
+  }
+  
